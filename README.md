@@ -1,6 +1,6 @@
 <h1 align="center">⚡Abhay Kr.</h1>
 <h3 align="center">✅Aspiring Software Developer | Open Source Enthusiast</h3>
-<img align="right" alt="coding" width="480" src="https://forum.radxa.com/uploads/default/original/2X/0/0700553091f087b04779ef2444f081ad45b24dc2.gif">
+<img align="right" alt="coding" width="400" src="https://forum.radxa.com/uploads/default/original/2X/0/0700553091f087b04779ef2444f081ad45b24dc2.gif">
 
 - 👨‍💻 portfolio **https://abhaysgithub.github.io/techwithabhay/**
 - 🚀 Twitter **https://twitter.com/abhaystwitt**
