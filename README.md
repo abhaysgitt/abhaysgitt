@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaysgithub&label=Profile%20views&color=0e75b6&style=flat" alt="abhaysgithub" /> </p>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhay+Kr!;" />
-</h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhay+Kr!;" /></h3>
 <hr/>
 <h2 align="center">✅Aspiring Software Developer | Open Source Enthusiast</h2>
 <img align="right" alt="coding" width="400" src="https://forum.radxa.com/uploads/default/original/2X/0/0700553091f087b04779ef2444f081ad45b24dc2.gif">
@@ -12,13 +10,7 @@
 - 🤖 Leetcode **https://www.leetcode.com/abhaysleetcode**
 - 📫Email **abhaysingh19oct@gmail.com**
 
-
-
-
-
-
-
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒</h2>
 <br/>
@@ -31,16 +23,13 @@
 <hr/>
 <h2 align="center">⚡ Stats ⚡ </h2>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysgithub" alt="abhaysgithub" /></a> </p>
-<div align="left">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysgithub" alt="abhaysgithub" /></a> </p>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 <br/>
 
-<br/>
-
-<br/>
 <hr/>
 
 <div align="center">
