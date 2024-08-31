@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaysgithub&label=Profile%20views&color=0e75b6&style=flat" alt="abhaysgithub" /> </p>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhay+Kumar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhay+Kr!;" />
 </h1>
 <hr/>
 <h2 align="center">✅Aspiring Software Developer | Open Source Enthusiast</h2>
@@ -20,7 +20,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
@@ -29,7 +29,7 @@
 <br/>
 
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats </h2>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysgithub" alt="abhaysgithub" /></a> </p>
 <div align="left">
@@ -42,7 +42,7 @@
 
 
 <hr/>
-<h2 align="center">⚡ Connect With Me ⚡</h2>
+<h2 align="center">☎️ Connect With Me </h2>
 <br>
 <p align="center">
 <a href="https://twitter.com/abhaystwitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhaystwitt" height="30" width="40" /></a>
