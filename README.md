@@ -23,7 +23,7 @@
 
 
 
-![logo](https://github.com/abhaysgithub/abhaysgithub/blob/main/animate.gif)
+![logo](https://github.com/abhaysgithub/abhaysgithub/blob/main/anime.gif)
 
 
 
