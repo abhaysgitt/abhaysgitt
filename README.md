@@ -1,4 +1,4 @@
-![logo](https://github.com/abhaysgithub/abhaysgithub/blob/main/animate.gif)
+
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhay+Kr!;" /></h3>
 <hr/>
 <h2 align="center">✅Aspiring Software Developer | Open Source Enthusiast</h2>
@@ -19,6 +19,17 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 <br/>
+
+
+
+
+![logo](https://github.com/abhaysgithub/abhaysgithub/blob/main/animate.gif)
+
+
+
+
+
+
 
 <hr/>
 <h2 align="center">⚡ Stats ⚡ </h2>
