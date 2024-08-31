@@ -29,7 +29,7 @@
 <br/>
 
 <hr/>
-<h2 align="center">⚡ Stats </h2>
+<h2 align="center">⚡ Stats ⚡ </h2>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysgithub" alt="abhaysgithub" /></a> </p>
 <div align="left">
@@ -39,6 +39,25 @@
 <br/>
 
 <br/>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
+
+
+
+
+
+
 
 
 <hr/>
@@ -59,29 +78,7 @@
  <a href="abhaysingh19oct@gmail.com" target="blank">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/> </a>
    <a href="" target="blank"> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"/> </a>
 </div>
-
-<br/><br/>
-<hr/>
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/abhaysgithub/abhaysgithub/output/snake.svg" alt="Snake animation" />
+<hr/>
 
 
