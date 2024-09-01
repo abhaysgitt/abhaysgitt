@@ -14,11 +14,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒</h2>
 <h3 align="center">
-<img align="center" src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,nodejs" />
-<img align="center" src="https://skillicons.dev/icons?i=python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+<img  src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,nodejs" />
+<img  src="https://skillicons.dev/icons?i=python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
 </h3>
-
-
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
