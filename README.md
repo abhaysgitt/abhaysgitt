@@ -11,7 +11,6 @@
 - 🤖 Leetcode **https://www.leetcode.com/abhaysleetcode**
 - 📫Email **abhaysingh19oct@gmail.com**
 
-<img align="center" alt="coding" width="900"  height="400" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/anime.gif">
 
 <hr/>
  
@@ -33,6 +32,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
 </div>
+<img align="center" alt="coding" width="900"  height="400" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/anime.gif">
 
 
 <hr/>
