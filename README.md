@@ -1,5 +1,4 @@
 
-
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+Welcome+to+my+github+Profile;+I'm+Abhay+,+an+Aspiring+Software+Developer;" /></h3>
 
 <h2 align="center">✅Aspiring Software Developer | Open Source Enthusiast</h2>
@@ -22,16 +21,7 @@
 </div>
 <br/>
 
-
-
-
-![logo](https://github.com/abhaysgithub/abhaysgithub/blob/main/anime.gif)
-
-
-
-
-
-
+<img align="center" alt="coding" width="900"  height="450" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/anime.gif">
 
 <hr/>
 <h2 align="center">⚡Github Stats ⚡ </h2>
