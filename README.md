@@ -8,7 +8,6 @@
 - 🙇🏻Linkedin **https://linkedin.com/in/abhayslinkidin**
 - 🤖 Leetcode **https://www.leetcode.com/abhaysleetcode**
 - 📫Email **abhaysingh19oct@gmail.com**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒</h2>
 <img align="center" src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
@@ -94,5 +93,6 @@
 
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
