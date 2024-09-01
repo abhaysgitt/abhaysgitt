@@ -36,6 +36,21 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhavchaturvedi-github" alt="anubhavchaturvedi-github" /></a> </p>
 
+
+
+<p align="center">
+  <a>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishanrajput23&theme=dark&hide_border=true"/>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+  </a>
+</p>
+
+
+
+
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
@@ -48,7 +63,10 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
-  <br/><br/><br/>
+ 
+ ![footer](https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png)
+ 
+ <br/><br/><br/>
 </div>
 
 
