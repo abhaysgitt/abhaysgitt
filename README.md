@@ -1,25 +1,19 @@
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+Welcome+to+my+github+Profile;+I'm+Abhay+,+an+Aspiring+Software+Developer;" /></h3>
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+Welcome+to+my+github+Profile;+I'm+Abhay+,+an+Aspiring+Software+Developer;"/>
+<h2 align="center"><img src="https://visitcount.itsvg.in/api?id=ParnaRoyChowdhury777&icon=9&color=9"/> ✅Aspiring Software Developer | Open Source Enthusiast</h2>
 
-<h2 align="center">✅Aspiring Software Developer | Open Source Enthusiast</h2>
-<img align="right" alt="coding" width="400"  height="170" src="https://forum.radxa.com/uploads/default/original/2X/0/0700553091f087b04779ef2444f081ad45b24dc2.gif">
+<img align="right" alt="coding" width="400" src="https://forum.radxa.com/uploads/default/original/2X/0/0700553091f087b04779ef2444f081ad45b24dc2.gif">
 
-
-[![](https://visitcount.itsvg.in/api?id=ParnaRoyChowdhury777&icon=9&color=9)](https://visitcount.itsvg.in)
 - 👨‍💻 portfolio **https://abhaysgithub.github.io/techwithabhay/**
 - 🚀 Twitter **https://twitter.com/abhaystwitt**
 - 🙇🏻Linkedin **https://linkedin.com/in/abhayslinkidin**
 - 🤖 Leetcode **https://www.leetcode.com/abhaysleetcode**
 - 📫Email **abhaysingh19oct@gmail.com**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+<img align="center" src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+<img align="center" src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask"/><br>
+
 <br/>
 
 
