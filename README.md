@@ -21,7 +21,7 @@
 </div>
 <br/>
 
-<img align="center" alt="coding" width="900"  height="450" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/anime.gif">
+<img align="center" alt="coding" width="900"  height="400" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/anime.gif">
 
 <hr/>
 <h2 align="center">⚡Github Stats ⚡ </h2>
