@@ -1,11 +1,12 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=damdev1&label=Profile%20views&color=0e75b6&style=flat" alt="damdev1" /> </p>
-
 <img align="right" alt="Coding" width="100" height="80" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 <img align="left" alt="Coding" width="100" height="80" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 
+
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhay+Kr!;" /></h3>
-<hr/>
+
+
 <h2 align="center">✅Aspiring Software Developer | Open Source Enthusiast</h2>
+
 <img align="right" alt="coding" width="400" src="https://forum.radxa.com/uploads/default/original/2X/0/0700553091f087b04779ef2444f081ad45b24dc2.gif">
 
 - 👨‍💻 portfolio **https://abhaysgithub.github.io/techwithabhay/**
@@ -52,8 +53,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+  <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
   <br/><br/><br/>
 </div>
 
@@ -86,10 +86,19 @@
 </div>
 <br/>
 
-
 [![@chandanck22's Holopin board](https://holopin.me/chandanck22)](https://holopin.io/@chandanck22)
 
 <hr/>
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
+
+
+
+
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=damdev1&label=Profile%20views&color=0e75b6&style=flat" alt="damdev1" /> </p>
+<img align="right" alt="Coding" width="100" height="80" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+<img align="left" alt="Coding" width="100" height="80" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+
