@@ -60,8 +60,8 @@
 <h2>🐍 Git-Contributions 🐍</h2>
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
  
-[![An image of @parnaroychowdhury777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parnaroychowdhury777)](https://holopin.io/@parnaroychowdhury777)<br><br>
 
+<img src="https://holopin.me/parnaroychowdhury777">
  
 </div>
 
