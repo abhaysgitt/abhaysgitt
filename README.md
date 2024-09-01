@@ -9,6 +9,14 @@
 - 📫Email **abhaysingh19oct@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">⚡ Github-Trophies ⚡</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhavchaturvedi-github" alt="anubhavchaturvedi-github" /></a> </p>
+<img align="center" alt="coding" width="900"  height="400" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/anime.gif">
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒</h2>
 <img align="center" src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
 
@@ -23,10 +31,6 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="center">⚡ Github-Trophies ⚡</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhavchaturvedi-github" alt="anubhavchaturvedi-github" /></a> </p>
-<img align="center" alt="coding" width="900"  height="400" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/anime.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚡ Github-Stats ⚡</h2>
