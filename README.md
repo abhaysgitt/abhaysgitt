@@ -10,7 +10,6 @@
 
 
 
-
 <hr>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒</h2>
 <h3 align="center">
@@ -32,7 +31,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚡ Github-Trophies ⚡</h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhavchaturvedi-github" alt="anubhavchaturvedi-github"/></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhavchaturvedi-github" alt="Abhays-github"/></a> 
 </p>
   <img align="center" alt="coding" width="900"  height="400" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/anime.gif">
 
