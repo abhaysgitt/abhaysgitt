@@ -39,7 +39,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
 <h2 align="center">⚡ Github-Stats ⚡</h2>
 <p align="center">
    <img height="100" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
@@ -56,7 +56,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
 <div align="center"><h2>🐍 Git-Contributions 🐍</h2>
   <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
   <img src="https://holopin.me/parnaroychowdhury777">
@@ -84,6 +84,6 @@
 </div>
 
 <img src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
