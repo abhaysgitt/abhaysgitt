@@ -1,5 +1,5 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+Welcome+to+my+github+Profile;+I'm+Abhay+,+an+Aspiring+Software+Developer;"/>
-<h2 align="center"><img src="https://visitcount.itsvg.in/api?id=ParnaRoyChowdhury777&icon=9&color=9"/> ✅Aspiring Software Developer | Open Source Enthusiast</h2>
+<h2 align="center"><img src="https://visitcount.itsvg.in/api?id=ParnaRoyChowdhury777&icon=9&color=9"/> ✅@full-stack-developer @Open-Source-Contributer</h2>
 <img align="right" alt="coding" width="400" src="https://forum.radxa.com/uploads/default/original/2X/0/0700553091f087b04779ef2444f081ad45b24dc2.gif">
 
 - 👨‍💻 portfolio **https://abhaysgithub.github.io/techwithabhay/**
