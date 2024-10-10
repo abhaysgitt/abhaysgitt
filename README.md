@@ -30,9 +30,9 @@
 <hr>
 <h2 align="center">⚡ Git-Stats ⚡</h2>
 <p align="center">
-   <img height="100" width="150" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishanrajput23&theme=dark&hide_border=true"/>
-   <img height="100" width="150" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/right.png">
+   <img height="80" width="150" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/left.png">
+   <img height="110" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishanrajput23&theme=dark&hide_border=true"/>
+   <img height="80" width="150" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/right.png">
 </p>
 
 <div align="center">
