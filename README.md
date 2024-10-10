@@ -17,15 +17,6 @@
 <img  src="https://skillicons.dev/icons?i=python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
 </h3>
 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
-</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -33,13 +24,11 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhavchaturvedi-github" alt="Abhays-github"/></a> 
 </p>
-  <img align="center" alt="coding" width="900"  height="400" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/anime.gif">
-
-
+ 
 
 
 <hr>
-<h2 align="center">⚡ Github-Stats ⚡</h2>
+<h2 align="center">⚡ Git-Stats ⚡</h2>
 <p align="center">
    <img height="100" width="150" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/left.png">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishanrajput23&theme=dark&hide_border=true"/>
@@ -49,7 +38,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
-  <img src="https://raw.githubusercontent.com/abhaysgithub/abhaysgithub/012f8ac492213acd82b47a43b0a1a1010f362bab/snake-game.svg">
+  
 </div>
 
 
@@ -58,7 +47,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="center">☎️ Connect With Me </h2>
+<h2 align="center">☎️ Let's Connect </h2>
 <h3 align="center">
   <a href="https://twitter.com/abhaystwitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhaystwitt" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/abhayslinkidin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhayslinkidin" height="30" width="40" /></a>
@@ -74,8 +63,5 @@
   <a href="https://mail.google.com/mail/u/0/#inbox" target="blank">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/> </a>
   <a href="https://www.twitch.tv/" target="blank"> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"/> </a>
 </div>
-
-<img src="https://github.com/abhaysgithub/abhaysgithub/blob/main/footer.png?raw=true">
-
-
+<img src="https://raw.githubusercontent.com/abhaysgithub/abhaysgithub/012f8ac492213acd82b47a43b0a1a1010f362bab/snake-game.svg">
 
