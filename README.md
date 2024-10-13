@@ -63,5 +63,4 @@
   <a href="https://mail.google.com/mail/u/0/#inbox" target="blank">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/> </a>
   <a href="https://www.twitch.tv/" target="blank"> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"/> </a>
 </div>
-<img src="https://raw.githubusercontent.com/abhaysgithub/abhaysgithub/012f8ac492213acd82b47a43b0a1a1010f362bab/snake-game.svg">
 
