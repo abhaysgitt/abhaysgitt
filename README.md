@@ -1,4 +1,5 @@
-<img src="https://visitcount.itsvg.in/api?id=ParnaRoyChowdhury777&icon=9&color=9"/> <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+Welcome+to+my+github+Profile;+I'm+Abhay+,+an+Aspiring+Software+Developer;"/>
+<h2><img src="https://visitcount.itsvg.in/api?id=ParnaRoyChowdhury777&icon=9&color=9"/> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+Welcome+to+my+github+Profile;+I'm+Abhay+,+an+Aspiring+Software+Developer;"/>
+</h2>
 <img align="right" alt="coding" width="400" src="https://forum.radxa.com/uploads/default/original/2X/0/0700553091f087b04779ef2444f081ad45b24dc2.gif">
 
 - 👨‍💻 portfolio **https://abhaysgithub.github.io/techwithabhay/**
@@ -18,7 +19,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
 <h2 align="center">🚀 Git-Trophies 🚀</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhavchaturvedi-github" alt="Abhays-github"/></a> 
@@ -28,11 +29,9 @@
 
 <hr>
 <h2 align="center">⚡ Git-Stats ⚡</h2>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
-  
 </div>
 
 
