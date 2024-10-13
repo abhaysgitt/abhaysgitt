@@ -1,7 +1,6 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+Welcome+to+my+github+Profile;+I'm+Abhay+,+an+Aspiring+Software+Developer;"/>
-<h2 align="center"><img src="https://visitcount.itsvg.in/api?id=ParnaRoyChowdhury777&icon=9&color=9"/> ✅@full-stack-developer @Open-Source-Contributer</h2>
+<h2 align="center"><img src="https://visitcount.itsvg.in/api?id=ParnaRoyChowdhury777&icon=9&color=9"/> <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+Welcome+to+my+github+Profile;+I'm+Abhay+,+an+Aspiring+Software+Developer;"/>
 <img align="right" alt="coding" width="400" src="https://forum.radxa.com/uploads/default/original/2X/0/0700553091f087b04779ef2444f081ad45b24dc2.gif">
-
+</h2>
 - 👨‍💻 portfolio **https://abhaysgithub.github.io/techwithabhay/**
 - 🚀 Twitter **https://twitter.com/abhaystwitt**
 - 🙇🏻Linkedin **https://linkedin.com/in/abhayslinkidin**
@@ -29,11 +28,6 @@
 
 <hr>
 <h2 align="center">⚡ Git-Stats ⚡</h2>
-<p align="center">
-   <img height="90" width="150" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/left.png">
-   <img height="120" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishanrajput23&theme=dark&hide_border=true"/>
-   <img height="90" width="150" src="https://github.com/abhaysgithub/abhaysgithub/blob/main/right.png">
-</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
