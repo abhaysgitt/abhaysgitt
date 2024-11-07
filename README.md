@@ -2,7 +2,7 @@
 </h2>
 
 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fabhaysgithubb57aa.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fabhaysgitt9a1ef.png?alt=media)
 
 <hr>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒</h2>
