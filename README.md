@@ -1,11 +1,28 @@
 <h2> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+Welcome+to+my+github+Profile;+I'm+Abhay+,+an+Aspiring+Software+Developer;"/> </h2>
 
+<hr>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒</h2>
+
+- 🔭 I’m currently working on **Open Source Projects and Personal Branding**
+
+- 🌱 I’m currently learning **Full Stack Development and Best Practices**
+
+- 👯 I’m looking to collaborate on **CNCF and Various other Open Source Projects**
+
+- 🤝 I’m looking for help with **Modern Web Technologies**
+
+- 📝 I regularly write articles on [https://abhaysblogg.blogspot.com/](https://abhaysblogg.blogspot.com/)
+
+- 💬 Ask me about **Linux, MERN, and various tools of DevOps**
+
+- 📫 How to reach me **abhaysingh19oct@gmail.com**
+
+- ⚡ Fun fact **I can count 1 billion faster than Python**
 
 <hr>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒</h2>
-<h3 align="center">
-<img  src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,nodejs" />
-<img  src="https://skillicons.dev/icons?i=python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+<h3 align="left">
+<img  src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
 </h3>
 
 
@@ -40,4 +57,3 @@
   <a href="https://mail.google.com/mail/u/0/#inbox" target="blank">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/> </a>
   <a href="https://www.twitch.tv/" target="blank"> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"/> </a>
 </div>
-
