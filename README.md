@@ -1,7 +1,4 @@
-<h3> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+Welcome+to+my+github+Profile;+I'm+Abhay+,+an+Aspiring+Software+Developer;"/> </h3>
-
-<hr>
-<h2 align="center">👻 Languages-Frameworks-Tools 👻</h2>
+<h2> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+Welcome+to+my+github+Profile;+I'm+Abhay+,+an+Aspiring+Software+Developer;"/> </h2>
 
 - 🔭 I’m currently working on **Open Source Projects and Personal Branding**
 
