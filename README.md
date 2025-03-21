@@ -6,16 +6,19 @@ Interests = ["Coding", "Problem Solving", "Exploring various OS :)"]
 Languages = ["C++", "Java-Script", "React", "NodeJs", "Express"]
 
 ```
-<details>
-  <summary>Skills</summary>
-  
-- Problem Solving
-- Open Source
-- Web Content Writing
-- Researching & Learning
-</details>
+<p align="center">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <a href="http://jrohit.com.np" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=jrohitofficial&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
 
-- 🔭 I’m currently working on **Open Source Projects and Personal Branding**
+
+
+<details>
+ <summary>Skills</summary>
+
+- 🔭 I’m currently working on **Open Source Projects, Personal Branding, Problem Solving**
 
 - 👀 I’m currently learning **Full Stack Development and Best Practices**
 
@@ -31,7 +34,7 @@ Languages = ["C++", "Java-Script", "React", "NodeJs", "Express"]
   <a href="https://www.linkedin.com/in/abhayslinkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkidin" height="30" width="40" /></a>
   <a href="https://instagram.com/hyyitsabhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/abhayscodeX/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>**
-
+</details>
 
 ####
 <table>
