@@ -6,14 +6,6 @@ Interests = ["Coding", "Problem Solving", "Exploring various OS :)"]
 Languages = ["C++", "Java-Script", "React", "NodeJs", "Express"]
 
 ```
-<p align="center">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <a href="http://jrohit.com.np" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=jrohitofficial&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
-    </a>
-
-
 
 <details>
  <summary>Skills</summary>
