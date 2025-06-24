@@ -3,7 +3,7 @@
 ```python
 Name = "Abhay Kr."
 Interests = ["Coding", "Problem Solving", "Exploring various OS :)"]
-Languages = ["C++", "Java-Script", "React", "NodeJs", "Express"]
+Languages = ["Pyhton", "Java-Script", "React", "NodeJs", "Express"]
 
 ```
 
