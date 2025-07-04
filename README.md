@@ -19,10 +19,6 @@ const abhay = {
 
 - 🤝 I’m looking to collaborate on **CNCF and Various other Open Source Projects**
 
-- 🤖 I’m looking for help with **Modern Web Technologies**
-
-- 📝 I write blogs on : [https://abhaysblogg.blogspot.com/](https://abhaysblogg.blogspot.com/)
-
 - 📫 How to reach me : **abhaysingh19oct@gmail.com**
 
 - ☎️ How to Contact me  : **<a href="https://twitter.com/abhaystwitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
