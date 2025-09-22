@@ -1,4 +1,4 @@
-<h2> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+Welcome+to+my+github+Profile;+I'm+Abhay+,+an+Aspiring+Software+Developer;"/> </h2>
+<h2> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+Welcome+to+my+github+Profile;+I'm+Abhay+;"/> </h2>
 
 
 ```typescript
