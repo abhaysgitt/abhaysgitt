@@ -1,17 +1,8 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&color=FFFFFF&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+👋;+Welcome+to+my+GitHub+Profile!;I'm+Abhay+Kumar+🚀;+I+focused+on+building+scalable+AI-driven+web-app" />
-</h2>
+<a href="https://www.twitter.com/abhaystwitt" target="__blank"><img src="https://img.shields.io/twitter/follow/abhaystwitt?style=social" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/abhayslinkk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</a>
+<br>
 
-
-```typescript
-const abhaysgitt = {
-    Name: "Abhay Kr."
-    Interests: ["Coding", "Problem-Solving", "ML", "Gen-AI", "DSA"]
-    Languages: ["Python", "JavaScript", "C++"]
-    Frameworks: ["Express.js", "React.js"]
-    Libraries: ["Tailwind CSS", "Mongoose"]
-    Database: ["MongoDB"]
-    Tools: ["Git", "GitHub", "VS Code", "Postman"]
-};
-```
-
+- I am currently working as...
+- I have worked as...
+- I am currently building my...
