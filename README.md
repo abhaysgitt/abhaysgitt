@@ -2,12 +2,18 @@
 <a href="https://www.linkedin.com/in/abhayslinkk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <br>
 
+
 `I’m a Cloud / DevOps–focused engineer with hands-on experience designing containerized workloads, Kubernetes-based systems, and automated CI/CD pipelines.` <br>
-`I Focused on building real-world infrastructure challenges such as scalability, reliability, observability, and automation, taking systems from local development to production-grade cloud environments.` <br>
-`An active open-source contributor within the CNCF ecosystem - continuously learning by building and operating real-world systems.`  <br>
 
 <details>
-  <summary>📄 SKILLS ⤵</summary>
+  <summary>📄 MORE ABOUT ME ⤵</summary>
+
+- `I Focused on building real-world infrastructure challenges such as scalability, reliability, observability, and automation, taking systems from local development to production-grade cloud environments.` <br>
+- `An active open-source contributor within the CNCF ecosystem - continuously learning by building and operating real-world systems.`  <br>
+</details>
+
+<details>
+  <summary>👨‍💻 SKILLS ⤵</summary>
 
   - `Programming Languages:` Python, Go, Bash, SQL  
   - `Cloud Platforms:` AWS, Azure  
