@@ -3,7 +3,7 @@
 <br>
 
 
-`I’m a Cloud / DevOps–focused engineer with hands-on experience designing containerized workloads, Kubernetes-based systems, and automated CI/CD pipelines.` <br>
+` I’m a ☁️ Cloud / DevOps–focused engineer with hands-on experience designing containerized workloads, Kubernetes-based systems, and automated CI/CD pipelines.` <br>
 
 <details>
   <summary>📄 MORE ABOUT ME ⤵</summary>
@@ -61,4 +61,9 @@
 📰 `Newsletter` : [Newsletter ➥](https://www.linkedin.com/newsletters/7400923199326064640/)   <br>
 📩 `Contact me` : abhaysingh19oct@gmail.com  <br>
 
+<p align="center">
+  <a href="mailto:abhaysingh19oct@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-1f6feb?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
