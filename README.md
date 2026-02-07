@@ -5,6 +5,7 @@
 
 ` I’m a ☁️ Cloud / DevOps–focused engineer with hands-on experience designing containerized workloads, Kubernetes-based systems, and automated CI/CD pipelines.` <br>
 
+
 <details>
   <summary>📄 MORE ABOUT ME ⤵</summary>
 
@@ -20,7 +21,7 @@
   - `Containerization:` Kubernetes, Docker, Amazon ECR  
   - `CI/CD Tools:` GitHub Actions, Jenkins, GitLab CI, Argo CD  
   - `Infrastructure as Code:` Terraform, Ansible, CloudFormation  
-  - `Monitoring & Logging:` Grafana, Prometheus, Amazon CloudWatch  
+  - `Monitoring & Logging:` Grafana, Prometheus, Amazon CloudWatch
 
 </details>
 
@@ -61,9 +62,9 @@
 📰 `Newsletter` : [Newsletter ➥](https://www.linkedin.com/newsletters/7400923199326064640/)   <br>
 📩 `Contact me` : abhaysingh19oct@gmail.com  <br>
 
-<p align="center">
-  <a href="mailto:abhaysingh19oct@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-1f6feb?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+<a href="mailto:abhaysingh19oct@gmail.com"> <img src="https://img.shields.io/badge/Contact-Email-1f6feb?style=flat&logo=gmail&logoColor=white" /> </a>
+
+> [!NOTE]
+> Thank You
 
