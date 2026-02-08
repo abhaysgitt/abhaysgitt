@@ -2,9 +2,7 @@
 <a href="https://www.linkedin.com/in/abhayslinkk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <br>
 
-
 ` I’m a ☁️ Cloud / DevOps–focused engineer with hands-on experience designing containerized workloads, Kubernetes-based systems, and automated CI/CD pipelines.` <br>
-
 
 <details>
   <summary>📄 MORE ABOUT ME ⤵</summary>
@@ -24,7 +22,6 @@
   - `Monitoring & Logging:` Grafana, Prometheus, Amazon CloudWatch
 
 </details>
-
 
 <details>
   <summary>💼 WORK EXPERIENCE ⤵</summary>
@@ -55,16 +52,13 @@
 - `AWS Cloud Practitioner` :  [Credential ➥](https://www.linkedin.com/in/abhayslinkk/details/certifications/384394826/multiple-media-viewer/?profileId=ACoAAEa7388Bn9cEdWDMc3dXb1BT2Jn342vBEKk&treasuryMediaId=1769910921263)  <br>
 </details>
 
-
 🌐 `portfolio` :  [@ techwithabhay ➥](https://techwithabhay.vercel.app/)   <br>
 📝 `Resume` :  [@ abhaysresume ➥](https://abhaysgitt.github.io/Resume/abhaysresume.pdf)  <br>
 👨‍💻 `Blog` : [@ abhayshashnode ➥](https://abhaysblogg.hashnode.dev/)   <br>
 📰 `Newsletter` : [Newsletter ➥](https://www.linkedin.com/newsletters/7400923199326064640/)   <br>
 📩 `Contact me` : abhaysingh19oct@gmail.com  <br>
 
-
 <a href="mailto:abhaysingh19oct@gmail.com"> <img src="https://img.shields.io/badge/Contact-Email-1f6feb?style=flat&logo=gmail&logoColor=white" /> </a>
 
 > [!NOTE]
 > Thank You
-
